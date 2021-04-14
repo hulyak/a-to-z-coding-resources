@@ -1,5 +1,6 @@
 ---
-title: 70+ Free Websites For Learning How to Code
+title: Websites For Learning How to Code
+slug: /
 ---
 
 I have been going through my bookmark list yesterday and decided to make a list of my bookmarks. I will share websites you can visit while learning to code in this blog post.

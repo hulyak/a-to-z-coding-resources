@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Coding Resources',
+  tagline: 'Free coding resources related to web development',
+  url: 'https://github.com/hulyak/a-to-z-coding-resources',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'hulyak', // Usually your GitHub org/user name.
+  projectName: 'a-to-z-coding-resources', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -20,12 +20,11 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Resources',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/hulyak/a-to-z-coding-resources',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,25 +37,25 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Getting Started',
+              label: 'Websites For Learning How to Code',
               to: 'docs/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/hulyakarkya',
+            },
+            {
+              label: 'Buy me a Coffee',
+              href: 'https://www.buymeacoffee.com/hulya',
+            },
+            {
+              label: 'Github ',
+              href: 'https://github.com/hulyak/a-to-z-coding-resources',
             },
           ],
         },
@@ -74,7 +73,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Coding Resources. Built with Docusaurus.`,
     },
   },
   presets: [

@@ -2,14 +2,15 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'Coding Resources',
       items: [
-        'getting-started',
-        'create-a-page',
-        'create-a-document',
-        'create-a-blog-post',
+        'free-websites-1',
+        'free-media-3',
+        'react-5',
+        'css-2',
         'markdown-features',
-        'thank-you',
+        'javascript-4',
+        'nextjs-6',
       ],
     },
   ],
