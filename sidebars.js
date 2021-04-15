@@ -11,6 +11,8 @@ module.exports = {
         'markdown-features',
         'javascript-4',
         'nextjs-6',
+        'job-hunt-7',
+        'career-8',
       ],
     },
   ],
