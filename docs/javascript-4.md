@@ -2,10 +2,6 @@
 title: Javascript
 ---
 
-Hello friends, today I will be sharing free Javascript resources that you can practice your skills. Learning Javascript is hard; but with practice, we can get better at it. I hope you will use these resources while learning and practicing Javascript.
-
-**I will not include video courses, but you can share your favorite video courses by commenting at the end of this post.**
-
 ## Blogs
 
 ### 1.[Dmitri Pavlutin Blog](https://dmitripavlutin.com/)

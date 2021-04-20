@@ -2,10 +2,6 @@
 title: CSS
 ---
 
-Hello everyone, today I will be sharing CSS tools that you can use to create beautiful styles.
-
-![animation_500_kmo8fm9q.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1616637877067/jF1tSRCoN.gif)
-
 ## 1.[Layoutit Grid](https://grid.layoutit.com/)
 
 Layoutit grid is a CSS Grid layout generator. Quickly drawdown web page layouts with our clean editor, and get HTML and CSS code to quickstart your next project. Also, you can see the code on CodePen!
