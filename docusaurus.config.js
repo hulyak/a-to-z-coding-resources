@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'a-to-z-coding-resources', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Home',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -50,10 +50,6 @@ module.exports = {
               href: 'https://twitter.com/hulyakarkya',
             },
             {
-              label: 'Buy me a Coffee',
-              href: 'https://www.buymeacoffee.com/hulya',
-            },
-            {
               label: 'Github ',
               href: 'https://github.com/hulyak/a-to-z-coding-resources',
             },
@@ -63,8 +59,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/hulyak/a-to-z-coding-resources',
+              label: 'Buy me a Coffee',
+              href: 'https://www.buymeacoffee.com/hulya',
             },
           ],
         },
