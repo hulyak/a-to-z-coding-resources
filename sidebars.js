@@ -8,8 +8,9 @@ module.exports = {
       // 'markdown-features',
       'javascript-4',
       'nextjs-6',
-      'job-hunt-7',
-      'career-8',
+      'job-hunt-8',
+      'career-9',
+      'computer-science-7',
     ],
   },
 };
