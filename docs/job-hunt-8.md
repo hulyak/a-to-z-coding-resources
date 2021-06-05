@@ -124,6 +124,28 @@ Jobs, internships, and volunteer opportunities.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u1rfgddxx2fkaoy7zog.png)
 
+20. [Fullstack labs](https://www.fullstacklabs.co/careers)
+
+From day one you will be working closely with some of the best developers and designers in the world, on client projects that will expand your abilities and feed your eagerness to learn. There’s no cog in the wheel syndrome here; every FullStacker serves a vital and direct role on their team, and is vital to the success of their projects and the company.
+
+21. [Dev remote](https://devremote.io/)
+
+A Jobs board dedicated to helping Developers find the best remote jobs available at the world's most awesome companies.
+
+22. [JS Remotely](https://www.jsremotely.com/)
+
+23. [Dotdash](https://www.dotdash.com/careers/)
+
+24. [Protege](https://protege.dev/)
+
+Looking for your next junior developer role? Look no further! Any jobs listed here are geared for those hungry to work and learn.
+
+25. [Startups Actively Hiring During COVID-19](https://docs.google.com/spreadsheets/d/15vTgoKSDjOsyvyh_MMHyPN1kUBdkUlZFV_mQCmfF89Y/htmlview#)
+
+26. [Include](https://www.include.io/)
+
+We help diverse Techies find jobs & advance their careers while being visible and valued. We also help companies find the unique talent they need.
+
 ## Internship
 
 1.[Chegg](https://www.internships.com/)
@@ -237,6 +259,10 @@ All of G2i's developers work fully remote from all corners of the world. This en
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0e915belceowgvva82az.png)
 
+6. [X-Team](https://x-team.com/developers/)
+
+We build high-performing teams of developers for the world’s leading brands. Join X-Team's community to gain access to job offers working on long-term projects for companies like Riot Games, FOX, Coinbase, and more.
+
 ## Apprenticeship
 
 1.[Launch Code](https://www.launchcode.org/)
@@ -244,6 +270,20 @@ All of G2i's developers work fully remote from all corners of the world. This en
 LaunchCode provides free education and job opportunities to help you launch your career in technology. You must be located in Saint Louis, Kansas City, or Philadelphia.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/boh17d3vu66tmdxlu7yh.png)
+
+2. [Go Activ](http://www.goactiv.org/)
+
+ACTiV is one of many programs offered by (OUBT) Olympia University of Business and Technology.
+
+3. [Apprenti](https://apprenticareers.org/blog/learning-tools/)
+
+Our unique apprenticeship program puts you on a straightforward, step-by-step fast track toward your dream job. The tech industry is seeking to diversify its workforce, so Apprenti is actively recruiting women, people of color, and veterans — although anyone is eligible to apply.
+
+4. [Pursuit](https://www.pursuit.org/)
+
+5. [Diversity Index](https://github.com/svaksha/diversity-index)
+
+A curated Diversity-Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population, Women!
 
 ## Mentorship Programs
 
@@ -262,3 +302,15 @@ Learn valuable mainframe skills to launch your career while helping improve the 
 Get paid while making an impact. Become a Codementor for the next wave of makers.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upmnktdlbmk9xr32s7f6.png)
+
+4. [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
+
+The Linux Kernel Mentorship Program offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
+
+The Linux Kernel Mentorship Program includes three 12-week, full-time volunteer mentee positions, and two 24-week part-time volunteer mentee positions each year. Please check the 2021 Linux Kernel Mentorship Program and get started. This is a remote opportunity and there is no need to relocate or move to participate.
+
+## Open Source
+
+1. [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+
+2. [First timers only](https://www.firsttimersonly.com/)

@@ -394,6 +394,20 @@ Get your first taste of what it's like to build websites. We'll walk you through
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/toiw3ewad2qpct8qcs27.png)
 
+### 72.[JetBrains Academy](https://hyperskill.org/tracks)
+
+### 73. [IBM Training](https://www.ibm.com/training/)
+
+IBM Training and certifications offers you the ability to earn credentials to demonstrate your expertise. It is designed to validate your skills and capability to perform role-related tasks and activities at a specified level of competence.
+
+### 74. [Tutorial Edge](https://tutorialedge.net/)
+
+### 75. [Coders Diaries](https://codersdiaries.com/)
+
+Industry level real world project oriented javascript and python web development courses made by full stack professionals
+
+### 76. [Starweaver](https://go.starweaver.com/)
+
 ## Wrapping Up
 
 I hope you will find value in these resources, I couldn't use all of them but they look very promising. And of course, I need to include [Freecodecamp](https://www.freecodecamp.org/) and [Codecademy](https://www.codecademy.com/); but I think everyone knows about them.

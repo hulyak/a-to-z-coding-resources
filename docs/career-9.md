@@ -54,6 +54,16 @@ Find the perfect free resume sample and upgrade your resume with VisualCV.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/en8nv9isp9bbicunmi55.png)
 
+### 10. [RX resume](https://rxresu.me/)
+
+### 11. [Top resume](https://www.topresume.com/?pt=nb0Z3LlCFtFcX)
+
+Upload your resume for a free expert review.
+
+### 12. [How to Write a Cover Letter](https://www.thebalancecareers.com/cover-letters-4161919)
+
+Use these samples, templates, and writing tips to create effective cover letters that will get you hired.
+
 ## Career Advice
 
 ### 1.[Break Into Tech](https://www.breakinto.tech/)

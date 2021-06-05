@@ -211,6 +211,8 @@ This resource is created to provide short programming problems for all who want 
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sjne48bb8i8btqf5wsrw.png)
 
+### 18. [CP Algorithms](https://cp-algorithms.com/)
+
 ## Interview Prep
 
 ### 1.[30 Seconds of Interviews](https://30secondsofinterviews.org/)
