@@ -13,4 +13,4 @@ module.exports = {
       'computer-science-7',
     ],
   },
-};
+}
