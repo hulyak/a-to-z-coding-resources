@@ -1,7 +1,7 @@
 {
   "name": "coding-resources",
   "version": "0.0.0",
-  "private": true,
+  "description": "coding resources for everybody",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -13,6 +13,22 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
+  "repository": {
+    "type": "git",
+    "url": "hhttps://github.com/hulyak/a-to-z-coding-resources"
+  },
+  "keywords": [
+    "coding",
+    "resources",
+    "free",
+    "open-source"
+  ],
+  "author": "Hulya Karakaya <hulyakarakayaa06@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hulyak/a-to-z-coding-resources/issues"
+  },
+  "homepage": "https://a-to-z-coding-resources.vercel.app/docs/",
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.72",
     "@docusaurus/preset-classic": "2.0.0-alpha.72",
