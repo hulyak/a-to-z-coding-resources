@@ -1,5 +1,9 @@
 sudo: false
 language: node_js
+node_js:
+  - 14
+install:
+  - npm ci
 cache:
   directories:
     - node_modules

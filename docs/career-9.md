@@ -6,7 +6,7 @@ title: Career Resources
 
 ### 1.[Novo Resume](https://novoresume.com/resume-templates)
 
-All Novorésumé resume templates are built with the most popular Applicant Tracking Systems (ATS) in mind. What this means for YOU is that whichever job you apply for, the CV filtering software they use will be able to read your resume (and NOT automatically discard it).
+All Novorésumé resume templates are built with the most popular Applicant Tracking Systems (ATS) in mind. What this means for YOU is that whichever job you apply for, the CV filtering software they use will be able to read your resume and NOT automatically discard it.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fms6me9562048piuiiqi.png)
 
