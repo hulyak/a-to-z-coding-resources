@@ -8,34 +8,29 @@ import styles from './styles.module.css'
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Learn',
+    imageUrl: 'img/learn.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learn Basic to Advanced Coding Skills. Courses, tutorials, guides, books
+        and more, all in one place.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Contribute',
+    imageUrl: 'img/contribute.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Contribute to the community and help other developers by adding your
+        resources to the repo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: 'Sign-Up Free',
+    imageUrl: 'img/login.svg',
+    description: <>100% Free Online Resources, No Sign-Up Required.</>,
   },
 ]
 
