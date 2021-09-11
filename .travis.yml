@@ -1,17 +1,13 @@
-sudo: false
 language: node_js
 node_js:
-  - 14
-install:
-  - npm ci
-cache:
-  directories:
-    - node_modules
+  - '14.17.6'
 branches:
   only:
     - main
-notifications:
-  email: false
+cache:
+  yarn: true
 script:
-  - npm run lint
-  - npm run build
+  - git config --global user.name "${GH_NAME}"
+  - git config --global user.email "${GH_EMAIL}"
+  - echo "machine github.com login ${GH_NAME} password ${GH_TOKEN}" > ~/.netrc
+  - npm && GIT_USER="${GH_NAME}" npm run deploy
