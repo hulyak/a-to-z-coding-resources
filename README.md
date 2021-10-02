@@ -6,7 +6,7 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 
 ## Contributing
 
-To contribute to the project, check out the [Contributing.md](https://github.com/hulyak/a-to-z-coding-resources/blob/main/CONTRIBUTING.md) file.
+To contribute to the project, check out the [Contributing.md](https://github.com/hulyak/a-to-z-coding-resources/blob/main/CONTRIBUTING.md) file. If you are new to working with Github, follow [this guide](https://dev.to/hulyakarakaya/one-more-pr-for-hactoberfest-5gkp).
 
 ## Installation
 
