@@ -407,7 +407,3 @@ IBM Training and certifications offers you the ability to earn credentials to de
 Industry level real world project oriented javascript and python web development courses made by full stack professionals
 
 ### 76. [Starweaver](https://go.starweaver.com/)
-
-## Wrapping Up
-
-I hope you will find value in these resources, I couldn't use all of them but they look very promising. And of course, I need to include [Freecodecamp](https://www.freecodecamp.org/) and [Codecademy](https://www.codecademy.com/); but I think everyone knows about them.

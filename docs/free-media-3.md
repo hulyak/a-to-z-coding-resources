@@ -297,9 +297,3 @@ A Canva-alternative where you can edit your images via their free online platfor
 Convert any photo to a duotone in seconds.
 
 ![Screen Shot 2021-03-26 at 10.09.48 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1616821920115/n3SWvS9qm.png)
-
-## Wrapping Up
-
-![source.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1616823749015/ShXg2NbWP.gif)
-
-If you are thinking these resources are not enough for you, I have found another [68 websites](https://www.matteoduo.com/free-images-photos-commercial-use/) you can check out.
