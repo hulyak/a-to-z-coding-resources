@@ -108,4 +108,4 @@ Click **Compare & pull request**, add a description describing the changes you m
 
 To submit your pull request, click the green **'Create pull request'** button.
 
-Well done, you have made your first pull request! 🎉🎉🎉
+Well done, you have made your pull request! 🎉🎉🎉
