@@ -11,6 +11,8 @@ module.exports = {
       'job-hunt-8',
       'career-9',
       'computer-science-7',
+      'aws-10',
+      'blockchain-11',
     ],
   },
 }

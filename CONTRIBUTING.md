@@ -7,14 +7,14 @@ To contribute to the project, please follow these steps:
 ### Adding a New Resource
 
 - Go to the `docs` folder and look at the resources.
-- All you need is adding a unique new resource to any of the markdown files. You only need to add one resource for the Pull Request.
+- All you need is to add a unique new resource to any of the markdown files. You only need to add one resource for the Pull Request.
 - Go to the end of the page and add a new resource.
 - Image of the resource is not necessary, if you want to add the image of the website, you can first load the image on Dev.to and paste the link from there.
 - You can add a short description after the heading. For the heading use `###` for Heading level 3 and make sure it looks good.
 
 If you need help writing markdown files, you can checkout [this website](https://www.markdownguide.org/basic-syntax).
 
-You can checkout this example:
+You can check out this example:
 
 ```md
 ### 1.[Reacti Flux](https://discord.com/invite/reactiflux)
@@ -70,7 +70,7 @@ Reacti Flux is the largest community of React developers (110,000+)!
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/at0opxihu02u0o2xvcq2.png)
 ```
 
-## Review Your Changes\*\*
+## Review Your Changes
 
 Use the `git diff` command to see the changes you’ve made. This will show your changes with the + sign. To quit the terminal, use the q key.
 
@@ -83,7 +83,7 @@ npm start
 
 Make sure the page loads without any errors and you have added a new resource.
 
-## Stage, Commit and Push Your Changes\*\*
+## Stage, Commit and Push Your Changes
 
 Next, you want to stage, commit, and push your changes to your fork. Staging means saving your changes so they are ready to be added to your branch.
 
