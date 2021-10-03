@@ -396,6 +396,10 @@ Get your first taste of what it's like to build websites. We'll walk you through
 
 ### 72.[JetBrains Academy](https://hyperskill.org/tracks)
 
+We believe that learning to program is not only about knowing specific tools and concepts but also about acquiring a set of mental skills that can help you solve complex problems.
+
+![JetBrains Academy](https://resources.jetbrains.com/storage/products/academy/img/meta/preview.png)
+
 ### 73. [IBM Training](https://www.ibm.com/training/)
 
 IBM Training and certifications offers you the ability to earn credentials to demonstrate your expertise. It is designed to validate your skills and capability to perform role-related tasks and activities at a specified level of competence.
@@ -414,4 +418,9 @@ Free Code Camp is an open source community that helps people learn to code. They
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84cntjisja4mgomh9arc.png)
 
+### 78. [Exercism](https://exercism.org/)
 
+Exercism is open source and 100% free.
+Help us provide opportunity for people of all backgrounds by helping them develop their programming skills through code practice and mentorship.
+
+![Exercism](https://dg8krxphbh767.cloudfront.net/meta/og.png)
