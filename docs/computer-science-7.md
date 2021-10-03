@@ -105,6 +105,14 @@ Algorithm Platform offers a free collection of online lessons and challenges des
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wjas1srzv06rbhbk9l9h.png)
 
+### 5. [Grokking Algorithms: An Illustrated Guide For Progammers and Other Curious People](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+
+Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Each carefully presented example includes helpful diagrams and fully annotated code samples in Python.
+
+Learning about algorithms doesn't have to be boring! Get a sneak peek at the fun, illustrated, and friendly examples you'll find in Grokking Algorithms on Manning Publications' YouTube channel.
+
+![ALT Text](https://images-na.ssl-images-amazon.com/images/I/51cV560hqBL._SX396_BO1,204,203,200_.jpg)
+
 ## Competitive Programming
 
 ### 1.[Codechef](https://www.codechef.com/)
