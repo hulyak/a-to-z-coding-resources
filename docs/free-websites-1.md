@@ -396,6 +396,10 @@ Get your first taste of what it's like to build websites. We'll walk you through
 
 ### 72.[JetBrains Academy](https://hyperskill.org/tracks)
 
+We believe that learning to program is not only about knowing specific tools and concepts but also about acquiring a set of mental skills that can help you solve complex problems.
+
+![JetBrains Academy](https://resources.jetbrains.com/storage/products/academy/img/meta/preview.png)
+
 ### 73. [IBM Training](https://www.ibm.com/training/)
 
 IBM Training and certifications offers you the ability to earn credentials to demonstrate your expertise. It is designed to validate your skills and capability to perform role-related tasks and activities at a specified level of competence.
