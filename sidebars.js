@@ -13,6 +13,7 @@ module.exports = {
       'computer-science-7',
       'aws-10',
       'blockchain-11',
+      'php-12',
     ],
   },
 }
