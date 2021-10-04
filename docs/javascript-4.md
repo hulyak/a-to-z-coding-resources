@@ -261,3 +261,18 @@ Make your website smaller and faster to load by minifying the JS and CSS code.
 This minifier removes whitespace, strips comments, combines files, and optimizes/shortens a few common programming patterns. And it comes with a huge test suite.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1e53mbote3jkeuexrnr.png)
+
+## Youtube Playlists
+
+### 1.[Namaste 🙏 JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+Namaste Javascript will cover the core concepts of JavaScript in detail and dive deep into JavaScript and the internals of how code is executed under the hood.
+
+These concepts are covered in the playlist
+- Execution Context
+- Scope, Scope Chain & Lexical Environment
+- Hoisting in JavaScript
+- Closures in JavaScript
+- ... And more
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gm23lhkarzp93p7y58ls.jpg)
