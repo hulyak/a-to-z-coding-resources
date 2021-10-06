@@ -14,6 +14,7 @@ module.exports = {
       'aws-10',
       'blockchain-11',
       'php-12',
+      'git-13'
     ],
   },
 }
