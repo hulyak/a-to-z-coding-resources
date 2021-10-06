@@ -15,6 +15,7 @@ module.exports = {
       'blockchain-11',
       'php-12',
       'coding-exercises-13',
+      'html-14',
     ],
   },
 }
