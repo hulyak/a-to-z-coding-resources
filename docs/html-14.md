@@ -6,7 +6,7 @@ title: HTML
 
 ### 1. [Brad Traversy - HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
-A free 1-video PHP Tutorial created by an established YouTuber & course creator. Video uploaded on Jul 17, 2017.
+A free 1-video HTML Tutorial created by an established YouTuber & course creator.
 
 ![01.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633514313144/d-iSnyLyJ.jpeg)
 
