@@ -10,7 +10,7 @@ A free 1-video HTML Tutorial created by an established YouTuber & course creator
 
 ![01.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633514313144/d-iSnyLyJ.jpeg)
 
-### 2. [Net Ninja - HTML Tutorial for Beginners YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
+### 2. [Net Ninja - HTML Tutorials for Beginners YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 
 A free 17-video HTML series created by an established YouTuber & course creator. Last updated on Jun 10, 2015.
 
