@@ -22,47 +22,11 @@ Exercises for HTML, CSS, JavaScript, SQL, PHP, Python, jQuery and many more. Qui
 
 ![03.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511094718/gcgNbJLz3.jpeg)
 
-### 4. [CodeWars](https://www.codewars.com/)
-
-Coding Challenges for many languages (PHP, Python, JavaScript, SQL, etc).
-
-![04.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511163659/fsaWw323x.jpeg)
-
-### 5. [Exercism](https://exercism.io/)
-
-Coding Challenges (supports a few dozens of languages, like PHP, Python, JavaScript, etc).
-
-![05.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511227684/PC7xQpCxc.jpeg)
-
-### 6. [LeetCode](https://leetcode.com/)
-
-Coding Challenges (supports many languages, like PHP, Python, JavaScript, etc).
-
-![06.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511294563/WyH8qdDv9.jpeg)
-
-### 7. [CoderByte](https://www.coderbyte.com/)
-
-Coding Challenges (supports many languages, like PHP, Python, JavaScript, etc).
-
-![07.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511393228/MuXU3xHEBQ.jpeg)
-
-### 8. [CodinGame](https://www.codingame.com/)
-
-Coding Challenges in form of a game (supports a huge load of languages, like PHP, Python, JavaScript, etc).
-
-![08.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511478904/IL8ewRuSm.jpeg)
-
 ### 9. [CheckIO](https://checkio.org/)
 
 Coding Challenges in form of a game (currently only supports Python & TypeScript).
 
 ![09.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511563961/mKf75WgiT.jpeg)
-
-### 10. [HackerRank](https://www.hackerrank.com/)
-
-Thousands of Coding Challenges (Algorithms, Data Structures, Databases, Python, SQL, etc).
-
-![10.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512221047/3zurORrri.jpeg)
 
 ### 11. [CSSBattle](https://cssbattle.dev/)
 
