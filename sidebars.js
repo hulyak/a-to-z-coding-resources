@@ -17,6 +17,7 @@ module.exports = {
       'coding-exercises-14',
       'html-15',
       'git-13'
+      'android-14'
     ],
   },
 }

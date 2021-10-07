@@ -40,6 +40,19 @@ Instantly improve your git and github workflow, productivity with this cheat she
 
 ![07.jpg](https://miro.medium.com/max/819/1*gmj1bzPSryHNFf_Oei4ytA.png)
 
+## Professional
+
+### 1. [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview)
+
+Atlassian’s Git tutorials introduce the most common Git commands, and our Git Workflows modules discuss how these commands are typically used to facilitate collaboration. Alone, these are enough to get a development team up and running with Git. But, if you really want to leverage the full power of Git, you’re ready to dive into our Advanced Git articles. Last updated on Sept 5, 2021.
+
+![08.jpg](https://wac-cdn.atlassian.com/dam/jcr:9b9e637b-75f8-4f0b-bab8-5e6182638168/hero.svg?cdnVersion=1837)
+
+### 2. [GitKraken](https://www.gitkraken.com/learn/git/tutorials#advanced)
+
+Jump in and learn Git based on your knowledge level. These beginner, intermediate, and advanced Git tutorials break down concepts into short videos that will teach you the concept and then walk through an example of how to apply it. Last updated on Oct 5, 2021.
+
+![09.jpg](https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/gitkraken-logo-light-hz-1.png)
 
 <br />
 <br />
