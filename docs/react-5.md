@@ -140,6 +140,12 @@ Here you can find free courses from Udemy, Youtube, and Coursera.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hmjyxy8a89n21kpwe2q.png)
 
+
+### 3.[Learn React for Free](https://scrimba.com/learn/learnreact)
+
+Perfect starting point for any React beginner. Learn key React features through interactive coding challenges and exercises.
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wwbooaiyupkmpbf3c56.png)
 ## Communities
 
 ### 1.[Reacti Flux](https://discord.com/invite/reactiflux)
