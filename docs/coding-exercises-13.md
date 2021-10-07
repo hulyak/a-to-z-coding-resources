@@ -22,7 +22,7 @@ Exercises for HTML, CSS, JavaScript, SQL, PHP, Python, jQuery and many more. Qui
 
 ![03.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511094718/gcgNbJLz3.jpeg)
 
-### 9. [CheckIO](https://checkio.org/)
+### 4. [CheckIO](https://checkio.org/)
 
 Coding Challenges in form of a game (currently only supports Python & TypeScript).
 
