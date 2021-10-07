@@ -28,25 +28,13 @@ Coding Challenges in form of a game (currently only supports Python & TypeScript
 
 ![09.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633511563961/mKf75WgiT.jpeg)
 
-### 11. [CSSBattle](https://cssbattle.dev/)
-
-Frontend Coding Challenges (HTML, CSS).
-
-![11.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512613283/VJTgIXQzT.jpeg)
-
-### 12. [100 Days of CSS Challenge](https://100dayscss.com/)
-
-Frontend Coding Challenges (HTML, CSS).
-
-![12.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512831994/t-tFHrGb_.jpeg)
-
-### 13. [UI Coach](https://uicoach.io/)
+### 5. [UI Coach](https://uicoach.io/)
 
 Frontend Coding Challenges (HTML, CSS).
 
 ![13.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512895512/GqCiIWm-R.jpeg)
 
-### 14. [Daily UI](https://www.dailyui.co/)
+### 6. [Daily UI](https://www.dailyui.co/)
 
 Frontend Coding Challenges (HTML, CSS).
 
