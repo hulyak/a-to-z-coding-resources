@@ -2,8 +2,6 @@
 title: Coding Exercises & Quizzes
 ---
 
-# Coding Exercises & Quizzes
-
 ### 1. [W3Schools](https://www.w3schools.com/)
 
 Exercises and Quizzes for HTML, CSS, JavaScript, SQL, PHP, Python, jQuery, Bootstrap and more.
