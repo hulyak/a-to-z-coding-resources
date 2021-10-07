@@ -54,6 +54,20 @@ Ready to level-up your skills as an Android developer? In this course, you will 
 
 ![09.jpg](https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/690CZVxa9mmmuErWmVffFB/f65cc4ec6d8772a47e79bf6ca1e38a6c/SEO-Image__2___1_.jpg)
 
+## Crash Courses
+
+### 1. [Raywenderlich](https://www.raywenderlich.com/android/paths/learn)
+Your introduction to Android app development starts here! In this learning path, you’ll build your very first Android apps. Along the way, you’ll learn all about the Kotlin programming language.  Last updated on Oct 1, 2020.
+
+### 2. [Crash Course into Android Development](https://www.udemy.com/course/android-course-for-extreme-beginners/)
+An Android course that will build the ground knowledge. Tailored for non-programmers and extreme beginners.Last updated on June 19, 2021
+
+## Books
+
+### 1. [Step By Step Guide to Mastering Android App Programming](https://www.amazon.com/Android-Crash-Course-Mastering-Programming/dp/1544801351)
+Want to learn Android Programming? Need to learn it?Want to develop an app quick and easy?How about starting an app from scratch? Learn the step by step of building an app through programming?PG Wizards gives you a walk through from building android apps to running them to finally testing them!And don't worry PG Wizards walks you through publishing the App as well!You will get all your basic information as well for all new programmers!Such as Operating systems & SDK and beyond! Last updated on March 19, 2017
+![10.jpg](https://images-na.ssl-images-amazon.com/images/I/41W6gK-zaZL._SX331_BO1,204,203,200_.jpg)
+
 <br />
 <br />
 <br />
