@@ -54,6 +54,17 @@ Ready to level-up your skills as an Android developer? In this course, you will 
 
 ![09.jpg](https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/690CZVxa9mmmuErWmVffFB/f65cc4ec6d8772a47e79bf6ca1e38a6c/SEO-Image__2___1_.jpg)
 
+### 3.[Multi-module android architecture](https://medium.com/google-developer-experts/modularizing-android-applications-9e2d18f244a0)
+We’ve all been there. Single module android applications — at some point in our Android development career it’s likely we’ve worked on, or are working on, a project that consists of a single module. Now, there’s nothing wrong with that at all and in a lot of cases, a single module will most likely do the job. Last updated on Aug 2, 2018.
+
+![11.jpg](https://miro.medium.com/max/819/1*AVWHlhxLsOqWVXkaofzBRA.png)
+
+### 4.[Android Architecture: MVVM with Coroutines + Retrofit + Hilt + Kotlin Flow + Room](https://narendrasinhdodiya.medium.com/android-architecture-mvvm-with-coroutines-retrofit-hilt-kotlin-flow-room-48e67ca3b2c8)
+When you are starting a new Android App the first thing you want is to have the best architecture for your App. Ideally, you would want your architecture to be built with the best development trends in Android.
+The quest for the perfect architecture starts by researching and learning top architecture trends. As the MVVM being the officially recommended architecture, it is an ideal choice to make. Last updated on Nov 2, 2020.
+
+![11.jpg](https://miro.medium.com/max/819/1*AVWHlhxLsOqWVXkaofzBRA.png)
+
 ## Crash Courses
 
 ### 1. [Raywenderlich](https://www.raywenderlich.com/android/paths/learn)
