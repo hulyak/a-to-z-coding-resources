@@ -556,4 +556,4 @@ Frontend Coding Challenges (HTML, CSS).
 
 Frontend Coding Challenges (HTML, CSS).
 
-![12.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512831994/t-tFHrGb_.jpeg)
+![12.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633724489201/1Ta4HuEj6.jpeg)
