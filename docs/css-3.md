@@ -551,9 +551,3 @@ A free 5-video Tailwind CSS Just-In-Time series created by an established YouTub
 Frontend Coding Challenges (HTML, CSS).
 
 ![11.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512613283/VJTgIXQzT.jpeg)
-
-### 2. [100 Days of CSS Challenge](https://100dayscss.com/)
-
-Frontend Coding Challenges (HTML, CSS).
-
-![12.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633724489201/1Ta4HuEj6.jpeg)
