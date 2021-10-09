@@ -76,7 +76,7 @@ An Android course that will build the ground knowledge. Tailored for non-program
 ## Books
 
 ### 1. [Step By Step Guide to Mastering Android App Programming](https://www.amazon.com/Android-Crash-Course-Mastering-Programming/dp/1544801351)
-Want to learn Android Programming? Need to learn it?Want to develop an app quick and easy?How about starting an app from scratch? Learn the step by step of building an app through programming?PG Wizards gives you a walk through from building android apps to running them to finally testing them!And don't worry PG Wizards walks you through publishing the App as well!You will get all your basic information as well for all new programmers!Such as Operating systems & SDK and beyond! Last updated on March 19, 2017
+Want to learn Android Programming? Need to learn it?Want to develop an app quick and easy?How about starting an app from scratch? Learn the step by step of building an app through programming?PG Wizards gives you a walk through from building android apps to running them to finally testing them!And don't worry PG Wizards walks you through publishing the App as well!You will get all your basic information as well for all new programmers!Last updated on March 19, 2017 
 ![10.jpg](https://images-na.ssl-images-amazon.com/images/I/41W6gK-zaZL._SX331_BO1,204,203,200_.jpg)
 
 <br />
