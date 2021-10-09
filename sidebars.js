@@ -15,8 +15,8 @@ module.exports = {
       'blockchain-11',
       'php-12',
       'git-13',
-      'android-14',
-      'node-15'
+      'android-15',
+      'node-16'
     ],
   },
 }
