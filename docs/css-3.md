@@ -318,9 +318,25 @@ BEM stands for "Block, Element, Modifier", it's a naming convention in CSS. Lear
 ## 57. [Web Gradients](https://webgradients.com/)
 
 WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. Easy copy CSS3 cross-browser code and use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for **Sketch & Photoshop.**
-
 ## 58.[What the flexbox?!](https://flexbox.io/)
 
 A simple, free 20 video course that will help you master CSS Flexbox!
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ym7xgj4vr9aim6wsqqt8.png)
+
+<br/>
+<br/>
+
+# Exercises
+
+### 1. [CSSBattle](https://cssbattle.dev/)
+
+Frontend Coding Challenges (HTML, CSS).
+
+![11.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512613283/VJTgIXQzT.jpeg)
+
+### 2. [100 Days of CSS Challenge](https://100dayscss.com/)
+
+Frontend Coding Challenges (HTML, CSS).
+
+![12.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633512831994/t-tFHrGb_.jpeg)
