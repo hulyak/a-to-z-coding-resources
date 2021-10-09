@@ -318,14 +318,12 @@ BEM stands for "Block, Element, Modifier", it's a naming convention in CSS. Lear
 ## 57. [Web Gradients](https://webgradients.com/)
 
 WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. Easy copy CSS3 cross-browser code and use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for **Sketch & Photoshop.**
-## 58.[What the flexbox?!](https://flexbox.io/)
+
+## 58.[What the flexbox?](https://flexbox.io/)
 
 A simple, free 20 video course that will help you master CSS Flexbox!
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ym7xgj4vr9aim6wsqqt8.png)
-
-<br>
-<br>
 
 # Lessons / Courses
 
@@ -384,10 +382,6 @@ A free 1-video CSS Specificity tutorial created by an established YouTuber & cou
 A free 1-video CSS tutorial created by established YouTubers & course creators. Video uploaded on Apr 9, 20178.
 
 ![14.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633529222273/H42hihU1b.jpeg)
-
-
-
-<br />
 
 ## Intermediate
 
@@ -477,24 +471,21 @@ A free 11-video CSS Grid series created by an established YouTuber & course crea
 
 ### 15. [CSS-Tricks.com YouTube Tutorials](https://www.youtube.com/user/realcsstricks/videos)
 
-A great resource of CSS techniques, tips, etc. Also, be sure to bookmark his [website](www.https://css-tricks.com) for arcticles, news, tips and many more stuff.
+A great resource of CSS techniques, tips, etc. Also, be sure to bookmark his [website](https://css-tricks.com) for arcticles, news, tips and many more stuff.
 
 ![11.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633527960834/Gur9l7DZB.jpeg)
 
-### 12. [Academind - CSS Flexbox Tutorial for Beginners YouTube Series (part 1)](https://www.youtube.com/watch?v=siKKg8Y_tQY)
+### 16. [Academind - CSS Flexbox Tutorial for Beginners YouTube Series part 1](https://www.youtube.com/watch?v=siKKg8Y_tQY)
 
 A free 2-video CSS Flexbox tutorial created by established YouTubers & course creators. Last updated on Dec 14, 2017.
 
 ![12.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633529035215/dSwOzWD1Zy.jpeg)
 
-### 13. [Academind - CSS Flexbox Tutorial for Beginners YouTube Series (part 2)](https://www.youtube.com/watch?v=RdlEEfx912M)
+### 17. [Academind - CSS Flexbox Tutorial for Beginners YouTube Series part 2](https://www.youtube.com/watch?v=RdlEEfx912M)
 
 A free 2-video CSS Flexbox tutorial created by established YouTubers & course creators. Last updated on Dec 14, 2017.
 
 ![13.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633529065820/nV0r8BVvQ.jpeg)
-
-
-<br />
 
 ## Frameworks
 
@@ -539,10 +530,6 @@ A free 19-video Tailwind CSS series created by an established YouTuber & course 
 A free 5-video Tailwind CSS Just-In-Time series created by an established YouTuber & course creator. Last updated on Aug 4, 2021.
 
 ![07.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633525570456/vUD8tNn_1K.jpeg)
-
-
-<br/>
-<br/>
 
 # Exercises
 
