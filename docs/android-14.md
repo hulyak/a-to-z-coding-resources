@@ -63,7 +63,7 @@ We’ve all been there. Single module android applications — at some point in 
 When you are starting a new Android App the first thing you want is to have the best architecture for your App. Ideally, you would want your architecture to be built with the best development trends in Android.
 The quest for the perfect architecture starts by researching and learning top architecture trends. As the MVVM being the officially recommended architecture, it is an ideal choice to make. Last updated on Nov 2, 2020.
 
-![11.jpg](https://miro.medium.com/max/819/1*AVWHlhxLsOqWVXkaofzBRA.png)
+![66.jpg](https://miro.medium.com/max/819/1*AVWHlhxLsOqWVXkaofzBRA.png)
 
 ## Crash Courses
 
