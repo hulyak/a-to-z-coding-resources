@@ -24,6 +24,46 @@ In this course, you’ll learn how to keep track of the different versions of yo
 
 ![03.jpg](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=)
 
+### 4. [The Net Ninja - Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
+A free 12-video Git & GitHub tutorial series created by an established YouTuber & course creator. Last updated on Jun 18, 2017.
+
+![04.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633682844981/EoCsykkgM.jpeg)
+
+### 5. [freeCodeCamp - Git and GitHub for Beginners Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+A free 1-video Git & GitHub crash course created by an established training website. Video uploaded on May 28, 2020.
+
+![05.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633683007822/6vacGlMUA.jpeg)
+
+### 6. [Brad Traversy - Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+A free 1-video Git & GitHub crash course created by an established YouTuber & course creator. Video uploaded on Feb 5, 2017.
+
+![06.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633683152652/CgGJLcXAn.jpeg)
+
+### 7. [Programming with Mosh - Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+
+A free 1-video Git & GitHub crash course created by an established YouTuber & course creator. Video uploaded on Sep 15, 2020.
+
+![07.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633683740224/ukrIkYR_9.jpeg)
+
+### 8. [Edureka - Git & GitHub Full Course in 5 Hours | Git GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=KMOmw19ZCGs)
+
+A free 1-video Git & GitHub course created by an established YouTuber & course creator. Video uploaded on Feb 15, 2021.
+
+![08.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633683984756/j4DJVD-aO.jpeg)
+
+### 9. [Bogdan Stashchuk - Git and GitHub Tutorial for Beginners (11 Hours)](https://www.youtube.com/watch?v=3FKrszHcIsA)
+
+A free 1-video Git & GitHub course created by an established YouTuber & course creator. Video uploaded on Mar 23, 2020.
+
+![09.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633685066648/4K1NkkpeL.jpeg)
+
+
+
+
+
 <br />
 
 ## Intermediate
@@ -39,6 +79,13 @@ A useful article that will guide through using advanced git commands.
 Instantly improve your git and github workflow, productivity with this cheat sheet. Last updated on Aug 5, 2019.
 
 ![07.jpg](https://miro.medium.com/max/819/1*gmj1bzPSryHNFf_Oei4ytA.png)
+
+### 3. [Traversy Media & Anson The Developer - Automatic Deployment With Github Actions](https://www.youtube.com/watch?v=X3F3El_yvFg)
+
+A free 1-video GitHub Actions tutorial created by an established YouTuber & course creator. Video uploaded on Oct 12, 2020.
+
+![10.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633685302839/dJvYyQ7lL.jpeg)
+
 
 ## Professional
 
