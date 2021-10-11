@@ -54,15 +54,11 @@ A free 1-video Git & GitHub course created by an established YouTuber & course c
 
 ![08.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633683984756/j4DJVD-aO.jpeg)
 
-### 9. [Bogdan Stashchuk - Git and GitHub Tutorial for Beginners (11 Hours)](https://www.youtube.com/watch?v=3FKrszHcIsA)
+### 9. [Bogdan Stashchuk - Git and GitHub Tutorial for Beginners 11 Hours](https://www.youtube.com/watch?v=3FKrszHcIsA)
 
 A free 1-video Git & GitHub course created by an established YouTuber & course creator. Video uploaded on Mar 23, 2020.
 
 ![09.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633685066648/4K1NkkpeL.jpeg)
-
-
-
-
 
 <br />
 
@@ -85,7 +81,6 @@ Instantly improve your git and github workflow, productivity with this cheat she
 A free 1-video GitHub Actions tutorial created by an established YouTuber & course creator. Video uploaded on Oct 12, 2020.
 
 ![10.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633685302839/dJvYyQ7lL.jpeg)
-
 
 ## Professional
 
