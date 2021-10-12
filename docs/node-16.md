@@ -8,7 +8,7 @@ title: Node.js
 
 ### 1. [freeCodeCamp: crash course](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
 
-Learn Node.js and Express with This Free 8-hour Back End Development Course. Last updated on APRIL 1, 2021.
+Learn Node.js and Express with This Free 8-hour Back End Development Course. Last updated on April 1, 2021.
 
 ![01.jpg](https://www.freecodecamp.org/news/content/images/size/w2000/2021/04/nodeexpress.png)
 
