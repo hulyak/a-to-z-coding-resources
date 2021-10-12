@@ -34,7 +34,14 @@ In this first Express article we answer the questions "What is Node?" and "What 
 
 <br />
 
+## Intermediate
 
+### 1. [Node.js essentials](https://www.youtube.com/playlist?reload=9&list=PLpc_YvcwbxaRl8WOTamrAD78jnsuNqM1C)
+
+A free YouTube tutorial consisting of 48 videos that covers many native node modules and also covers a good node project.
+This crash course will give a good insight into real nodejs projects. Last updated on 11 oct. 2019.
+
+![73.jpg](https://s3.eu-central-1.wasabisys.com/courseupload/2019/04/Advanced-Node.js-Scaling-Applications-%E2%80%93-Free-Download.jpg)
 
 ## Professional
 
