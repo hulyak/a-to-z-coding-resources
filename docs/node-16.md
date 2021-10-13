@@ -43,6 +43,12 @@ This crash course will give a good insight into real nodejs projects. Last updat
 
 ![73.jpg](https://s3.eu-central-1.wasabisys.com/courseupload/2019/04/Advanced-Node.js-Scaling-Applications-%E2%80%93-Free-Download.jpg)
 
+### 2. [NodeSchool](https://nodeschool.io/)
+
+Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
+
+![image.jpg](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/428c0kia1wmvt3iaw2wm.png)
+
 ## Professional
 
 ### 1. [Five Node.js guides to Go From Beginner to Expert](https://betterprogramming.pub/5-node-js-express-tutorials-to-go-from-beginner-to-expert-f658b9331402?gi=1c61931a3dc5)
