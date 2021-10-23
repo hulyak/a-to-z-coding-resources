@@ -493,6 +493,12 @@ A free 2-video CSS Flexbox tutorial created by established YouTubers & course cr
 
 ![13.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633529065820/nV0r8BVvQ.jpeg)
 
+### 18. [CSS Grid with Web Bos](https://cssgrid.io)
+
+LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS, FROM FUNDAMENTALS TO REAL WORLD IN ABOUT 4 HOURS.
+
+![Picture of the site's hero](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6nikjh2zr2xshd8fj1u.png)
+
 ## Frameworks
 
 ### 1. [Net Ninja - Bootstrap 3 Tutorials YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99)
