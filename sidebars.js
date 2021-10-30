@@ -17,7 +17,9 @@ module.exports = {
       'git-13',
       'coding-exercises-14',
       'android-15',
-      'node-16'
+      'node-16',
+      'blog'
+
     ],
   },
 }
