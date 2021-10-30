@@ -424,3 +424,9 @@ Exercism is open source and 100% free.
 Help us provide opportunity for people of all backgrounds by helping them develop their programming skills through code practice and mentorship.
 
 ![Exercism](https://dg8krxphbh767.cloudfront.net/meta/og.png)
+
+### 79. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+PageSpeed Insights is an online service provided by Google to examine the loading time of a website and, if necessary, to optimize it.
+
+![PageSpeed Insights](https://developers.google.com/speed/pagespeed/images/psi.png)
