@@ -136,6 +136,13 @@ Free JavaScript Resources.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ex0xld24iea9awu9juy.png)
 
+### 22.[The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
+
+The Odin Project empowers aspiring web developers to learn together.
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bo2s9pjlhtutg1pbue7k.png))
+
+
 ## REPOS
 
 ### 1.[You Don't Know JS by Getify](https://github.com/getify/You-Dont-Know-JS)

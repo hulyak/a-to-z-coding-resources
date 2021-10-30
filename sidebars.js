@@ -19,6 +19,7 @@ module.exports = {
       'android-15',
       'node-16',
       'python-17'
+      'blog-18'
     ],
   },
 }

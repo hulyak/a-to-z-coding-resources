@@ -39,3 +39,21 @@ A free 23-video HTML & CSS series created by an established YouTuber & course cr
 A free 17-video HTML, CSS & JavaScript series created by established YouTubers & course creators. Last updated on May 28, 2018.
 
 ![06.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633515270144/n5yGnzDZM.jpeg)
+
+### 7. [htmlrefernce](https://htmlreference.io/)
+
+htmlreference.io is a free guide to HTML. It features all elements and attributes.
+
+![07.jpg](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvjw5nlvbogtfgm7mnvl.png)
+
+### 8. [html CheatSheet](https://htmlcheatsheet.com/)
+
+Online interactive HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more.
+
+![08.jpg](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g88gn9qzvnqn8ajexpxv.png)
+
+### 9. [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+
+Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
+
+![09.jpg](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dobtxr76yaxi4kvr6lis.png)
