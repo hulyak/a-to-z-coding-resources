@@ -19,7 +19,6 @@ module.exports = {
       'android-15',
       'node-16',
       'blog'
-
     ],
   },
 }
