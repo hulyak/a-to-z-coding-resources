@@ -299,6 +299,12 @@ Programming exercises, code katas, and puzzles for your job interview training -
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i06x76dmshvi6kkluzz2.png)
 
+### 13. [AlgoExpert](https://www.algoexpert.io/product)
+
+The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. ($99)
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a5l5s7nu6iige0r5dugr.png)
+
 ## Tools
 
 ### 1.[Visualgo](https://visualgo.net/en)

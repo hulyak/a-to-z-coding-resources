@@ -18,7 +18,8 @@ module.exports = {
       'coding-exercises-14',
       'android-15',
       'node-16',
-      'blog-17'
+      'python-17'
+      'blog-18',
     ],
   },
 }
