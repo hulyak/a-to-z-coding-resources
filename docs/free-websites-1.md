@@ -436,3 +436,7 @@ Help us provide opportunity for people of all backgrounds by helping them develo
 PageSpeed Insights is an online service provided by Google to examine the loading time of a website and, if necessary, to optimize it.
 
 ![PageSpeed Insights](https://developers.google.com/speed/pagespeed/images/psi.png)
+
+### 80. [Scaler Topics](https://www.scaler.com/topics/)
+
+Scaler Topics is free resources platform to learn programming. Read programming articles related to Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
