@@ -10,21 +10,22 @@ To contribute to the project, check out the [Contributing.md](https://github.com
 
 ## Installation
 
-```console
+```bash
 npm install
 ```
 Alternatively you may use yarn:
-```console
+
+```bash
 yarn install
 ```
 
 ## Local Development
 
-```console
+```bash
 npm start
 ```
 OR
-```console
+```bash
 yarn start
 ```
 
@@ -32,11 +33,11 @@ This command starts a local development server and open up a browser window. Mos
 
 ## Build
 
-```console
+```bash
 npm run build
 ```
 Alternatively you may use yarn:
-```console
+```bash
 yarn build
 ```
 
@@ -44,7 +45,7 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-```console
+```bash
 GIT_USER=<Your GitHub username> USE_SSH=true npm run deploy
 ```
 
