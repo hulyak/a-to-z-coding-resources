@@ -142,6 +142,12 @@ The Odin Project empowers aspiring web developers to learn together.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bo2s9pjlhtutg1pbue7k.png))
 
+### 23.[Learn JavaScript by Scaler Topics](https://www.scaler.com/topics/javascript/)
+
+Basic to advanced JavaScript tutorial for programmers, step-by-step guide along with applications and example programs.
+
+![learn javascript by scaler topics](https://i.ibb.co/LQ5WqXL/Screenshot-2022-03-28-at-6-27-13-PM.png))
+
 
 ## REPOS
 
