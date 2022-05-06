@@ -38,3 +38,7 @@ Online interactive HTML Cheat Sheet contains useful code examples and web develo
 ### 9. [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 
 Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
+
+### 10. [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
+
+freeCodeCamp html course
