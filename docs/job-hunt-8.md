@@ -108,6 +108,10 @@ Looking for your next junior developer role? Look no further! Any jobs listed he
 
 We help diverse Techies find jobs & advance their careers while being visible and valued. We also help companies find the unique talent they need.
 
+27. [Black Tech Pipeline] (https://blacktechpipeline.com)
+
+A resource for underrepresented individuals who are on the job hunt for a tech job.
+
 ## Internship
 
 1.[Chegg](https://www.internships.com/)
