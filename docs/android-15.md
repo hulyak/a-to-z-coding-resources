@@ -45,10 +45,10 @@ This course provides a series of codelabs that teach you how to add advanced fea
 
 Ready to level-up your skills as an Android developer? In this course, you will learn how to make your app production-ready by developing a variety of different sample apps, each designed to showcase advanced capabilities of the Android platform. Last updated on June 5, 2021.
 
-### 3.[Multi-module android architecture](https://medium.com/google-developer-experts/modularizing-android-applications-9e2d18f244a0)
+### 3. [Multi-module android architecture](https://medium.com/google-developer-experts/modularizing-android-applications-9e2d18f244a0)
 We’ve all been there. Single module android applications — at some point in our Android development career it’s likely we’ve worked on, or are working on, a project that consists of a single module. Now, there’s nothing wrong with that at all and in a lot of cases, a single module will most likely do the job. Last updated on Aug 2, 2018.
 
-### 4.[Android Architecture: MVVM with Coroutines + Retrofit + Hilt + Kotlin Flow + Room](https://narendrasinhdodiya.medium.com/android-architecture-mvvm-with-coroutines-retrofit-hilt-kotlin-flow-room-48e67ca3b2c8)
+### 4. [Android Architecture: MVVM with Coroutines + Retrofit + Hilt + Kotlin Flow + Room](https://narendrasinhdodiya.medium.com/android-architecture-mvvm-with-coroutines-retrofit-hilt-kotlin-flow-room-48e67ca3b2c8)
 When you are starting a new Android App the first thing you want is to have the best architecture for your App. Ideally, you would want your architecture to be built with the best development trends in Android.
 The quest for the perfect architecture starts by researching and learning top architecture trends. As the MVVM being the officially recommended architecture, it is an ideal choice to make. Last updated on Nov 2, 2020.
 
