@@ -2,76 +2,76 @@
 title: CSS
 ---
 
-## 1.[Layoutit Grid](https://grid.layoutit.com/)
+## 1. [Layoutit Grid](https://grid.layoutit.com/)
 
 Layoutit grid is a CSS Grid layout generator. Quickly drawdown web page layouts with our clean editor, and get HTML and CSS code to quickstart your next project. Also, you can see the code on CodePen!
 
-## 2.[CSS Grid Generator by Sarah Drasner](https://cssgrid-generator.netlify.app/)
+## 2. [CSS Grid Generator by Sarah Drasner](https://cssgrid-generator.netlify.app/)
 
-## 3.[Grid by Example](https://gridbyexample.com/)
+## 3. [Grid by Example](https://gridbyexample.com/)
 
 This site is a collection of examples, videos, and other information to help you learn CSS Grid Layout. Developed and maintained by [Rachel Andrew](https://rachelandrew.co.uk/).
 
-## 4.[CSS Grid Garden](https://cssgridgarden.com/)
+## 4. [CSS Grid Garden](https://cssgridgarden.com/)
 
 Grow your carrot garden while learning about CSS Grid.
 
-## 5.[Mastery Games](https://mastery.games/)
+## 5. [Mastery Games](https://mastery.games/)
 
 Here you can play around with Zombies and practice Flexbox; save an adorable alien species while learning CSS Grid.
 
 
-## 6.[Grid Malven](https://grid.malven.co/)
+## 6. [Grid Malven](https://grid.malven.co/)
 
 Grid Cheatsheet.
 
 
-## 7.[CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+## 7. [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Comprehensive guide to CSS grid by CSS Tricks.
 
 
-## 8.[Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+## 8. [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 Quickly generate and preview a cubic-bezier with this tool.
 
 
-## 9.[CSS Animation](http://cssanimation.io/)
+## 9. [CSS Animation](http://cssanimation.io/)
 
 Create your animations with this easy-to-use tool, it's also supporting GSAP.
 
 
-## 10.[CSS Animation 101 E-book](https://cssanimation.rocks/css-animation-101/)
+## 10. [CSS Animation 101 E-book](https://cssanimation.rocks/css-animation-101/)
 
 
-## 11.[CSS Diner](https://flukeout.github.io/)
+## 11. [CSS Diner](https://flukeout.github.io/)
 
 Practice your CSS positioning skills with CSS Diner.
 
 
-## 12.[Flexbox Patterns](https://www.flexboxpatterns.com/)
+## 12. [Flexbox Patterns](https://www.flexboxpatterns.com/)
 
 Here you can get a lot of tips and patterns while using Flexbox.
 
 
-## 13.[Flexbox Froggy](https://flexboxfroggy.com/)
+## 13. [Flexbox Froggy](https://flexboxfroggy.com/)
 
 
-## 14.[Flexbox Cheatsheet](https://darekkay.com/flexbox-cheatsheet/)
+## 14. [Flexbox Cheatsheet](https://darekkay.com/flexbox-cheatsheet/)
 
 
-## 15.[Devinduct Flexbox](https://devinduct.com/workshop/flexbox)
+## 15. [Devinduct Flexbox](https://devinduct.com/workshop/flexbox)
 
 Preview and see the code for Flexbox.
 
 
-## 16.[Flexbox Defense](http://www.flexboxdefense.com/)
+## 16. [Flexbox Defense](http://www.flexboxdefense.com/)
 
 Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!
 
-## 17.[CSS Tricks Almanac](https://css-tricks.com/almanac/)
+## 17. [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 
-## 18.[Keyframes](https://keyframes.app/)
+## 18. [Keyframes](https://keyframes.app/)
 
 Dead simple visual tools to help you generate CSS for your projects.
 
@@ -82,152 +82,152 @@ Create single or multi-layer box shadows just by moving some sliders. Get the CS
 Pick your favorite colors, convert between hex and rgb, and create & save palettes.
 
 
-## 19.[CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+## 19. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
 
 This cheat sheet is designed for a quick search on CSS selectors.
 
 
-## 20.[CSS Font Stack](https://www.cssfontstack.com/)
+## 20. [CSS Font Stack](https://www.cssfontstack.com/)
 
 Get Web Safe Fonts and much more from Dan's Tools.
 
 
-## 21.[Clippy by Bennett Feely](https://bennettfeely.com/clippy/)
+## 21. [Clippy by Bennett Feely](https://bennettfeely.com/clippy/)
 
 Get your clip-paths and also checkout [Bennett Feely](https://bennettfeely.com/)'s website to see all his tools.
 
 
 
-## 22.[Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+## 22. [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
 
 An extensive CSS reference with all the important properties and info to learn CSS from the basics.
 
 
-## 23.[CSS Reference](https://cssreference.io/)
+## 23. [CSS Reference](https://cssreference.io/)
 
 Yet another CSS Reference resource.
 
 
-## 24.[Frontend Mentor](https://www.frontendmentor.io/)
+## 24. [Frontend Mentor](https://www.frontendmentor.io/)
 
 Frontend Mentor has a lot of projects based on HTML and CSS, you can complete challenges and improve your styles by working on real-life projects.
 
 
-## 25.[The Code Player](https://thecodeplayer.com/)
+## 25. [The Code Player](https://thecodeplayer.com/)
 
 Video style walkthroughs showing cool stuff being created from scratch.
 
-## 26.[CSS DB](https://cssdb.org/)
+## 26. [CSS DB](https://cssdb.org/)
 
 cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
 
-## 27.[Border Radius Generator](https://border-radius.com/)
-## 28.[Button Creator](https://cssbuttoncreator.com/)
+## 27. [Border Radius Generator](https://border-radius.com/)
+## 28. [Button Creator](https://cssbuttoncreator.com/)
 
-## 29.[Best CSS Button Generator](https://www.bestcssbuttongenerator.com/)
+## 29. [Best CSS Button Generator](https://www.bestcssbuttongenerator.com/)
 
-## 30.[Samantha Ming's Tidbits](https://www.samanthaming.com/)
+## 30. [Samantha Ming's Tidbits](https://www.samanthaming.com/)
 
-## 31.[Specificity Calculator](https://specificity.keegan.st/)
+## 31. [Specificity Calculator](https://specificity.keegan.st/)
 
 A visual way to understand CSS specificity. Change the selectors or paste them into your own.
-## 32.[Clean CSS](https://www.cleancss.com/css-minify/)
+## 32. [Clean CSS](https://www.cleancss.com/css-minify/)
 
 Compress your CSS.
 
-## 33.[100 Days CSS Challenge](https://100dayscss.com/)
+## 33. [100 Days CSS Challenge](https://100dayscss.com/)
 
-## 34.[CSS Layout](https://csslayout.io/)
+## 34. [CSS Layout](https://csslayout.io/)
 
 A collection of popular layouts and patterns made with CSS.
-## 35.[Pattern Generator](https://doodad.dev/pattern-generator/)
-## 36.[Paaatterns](https://products.ls.graphics/paaatterns/preview.html)
+## 35. [Pattern Generator](https://doodad.dev/pattern-generator/)
+## 36. [Paaatterns](https://products.ls.graphics/paaatterns/preview.html)
 
-## 37.[Pattern Pad](https://patternpad.com/)
+## 37. [Pattern Pad](https://patternpad.com/)
 
 Create unlimited unique design patterns.
 
-## 38.[Pattern CSS](https://bansal.io/pattern-css#installation)
+## 38. [Pattern CSS](https://bansal.io/pattern-css#installation)
 
 CSS only library to fill your empty background with beautiful patterns.
 
-## 39.[Free Frontend](https://freefrontend.com/css-code-examples/)
+## 39. [Free Frontend](https://freefrontend.com/css-code-examples/)
 
 Free CSS code examples from codepen.io and other resources.
 
-## 40.[Glassmorphism CSS Generator](https://glassmorphism.com/)
-## 41.[Smol CSS](https://smolcss.dev/)
+## 40. [Glassmorphism CSS Generator](https://glassmorphism.com/)
+## 41. [Smol CSS](https://smolcss.dev/)
 
 Minimal snippets for modern CSS layouts and components.
 
-## 42.[Lottie Files](https://lottiefiles.com/featured)
+## 42. [Lottie Files](https://lottiefiles.com/featured)
 
 Free animations.
 
-## 43.[Animating Underlines](https://css-irl.info/animating-underlines/)
+## 43. [Animating Underlines](https://css-irl.info/animating-underlines/)
 
 Michelle Barker shares some fantastic tips about underline styles and animations.
 
-## 44.[Free Fonts by FontShare](https://www.fontshare.com/)
+## 44. [Free Fonts by FontShare](https://www.fontshare.com/)
 
 The service, named Fontshare, will be familiar to anyone who has used Google Fonts. Browse the fonts list, pick out the styles you want, and add them to your site.
 
-## 45.[BG Jar](https://bgjar.com/)
+## 45. [BG Jar](https://bgjar.com/)
 
 Free SVG background generator for your websites, blogs, and app.
 
-## 46.[Get Waves](https://getwaves.io/)
+## 46. [Get Waves](https://getwaves.io/)
 
 A free SVG wave generator to make unique SVG waves.
 
-## 47.[Custom SVG Shape Dividers](https://www.shapedivider.app/)
+## 47. [Custom SVG Shape Dividers](https://www.shapedivider.app/)
 
 We created this free tool to make it easier for designers and developers to export a beautiful SVG
 shape divider for their latest project. We hope you enjoy this tool
 
-## 48.[CSS Zen Garden](http://www.csszengarden.com/)
+## 48. [CSS Zen Garden](http://www.csszengarden.com/)
 
 A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
 
-## 49.[CSS Minifier](https://cssminifier.com/)
+## 49. [CSS Minifier](https://cssminifier.com/)
 
 Online CSS Minifier/Compressor. Free! Provides an API. Simple Quick and Fast.
 
-## 50.[CSS Cheatsheet](https://overapi.com/css)
+## 50. [CSS Cheatsheet](https://overapi.com/css)
 
 List of elements, selectors, and styles with relevant links to their MDN pages.
 
-## 51.[Autoprefixer](https://autoprefixer.github.io/)
+## 51. [Autoprefixer](https://autoprefixer.github.io/)
 
 Autoprefixer online — web repl for original Autoprefixer. It parses your CSS and adds vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used by Twitter and Taobao.
 
-## 52.[Should I Prefix](http://shouldiprefix.com/#masks)
+## 52. [Should I Prefix](http://shouldiprefix.com/#masks)
 
 This page has one purpose: simply show what prefixes are needed for a newer CSS property.
 
-## 53.[Design Resources for Developers by Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#table-of-contents)
+## 53. [Design Resources for Developers by Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#table-of-contents)
 
 A curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools, and much more.
 
-## 54.[Bem Methodology](https://en.bem.info/)
+## 54. [Bem Methodology](https://en.bem.info/)
 
 BEM stands for "Block, Element, Modifier", it's a naming convention in CSS. Learn more on the official website.
-## 55.[CSS Cheatsheet](https://htmlcheatsheet.com/css/)
-## 56.[The Complete CSS Flex Tutorial](https://semicolon.dev/tutorial/css/complete-css-flex-tutorial)
+## 55. [CSS Cheatsheet](https://htmlcheatsheet.com/css/)
+## 56. [The Complete CSS Flex Tutorial](https://semicolon.dev/tutorial/css/complete-css-flex-tutorial)
 
 ## 57. [Web Gradients](https://webgradients.com/)
 
 WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. Easy copy CSS3 cross-browser code and use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for **Sketch & Photoshop.**
 
-## 58.[What the flexbox?](https://flexbox.io/)
+## 58. [What the flexbox?](https://flexbox.io/)
 
 A simple, free 20 video course that will help you master CSS Flexbox!
 
-## 59.[Can I Use](https://caniuse.com/)
+## 59. [Can I Use](https://caniuse.com/)
 
 "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
-## 60.[Buttons Generator](https://markodenic.com/tools/buttons-generator/)
+## 60. [Buttons Generator](https://markodenic.com/tools/buttons-generator/)
 
 100+ buttons you can use in your project.
 
