@@ -64,6 +64,10 @@ This is a short blog post about teaching yourself programming in 10 Years!
 List of Computer Science courses with video lectures.
 ⭐️ 22k stars.
 
+### 12.[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+This will teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+
 ## Algorithms
 
 ### 1.[Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
