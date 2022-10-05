@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/learn.svg',
     description: (
       <>
-        Learn Basic to Advanced Coding Skills. Courses, tutorials, guides, books
-        and more, all in one place.
+        Learn & Polish your Coding Skills from Basic to Advanced with the help of courses, tutorials, guides, books
+        and more, all here in one place.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
   {
     title: 'Sign-Up Free',
     imageUrl: 'img/login.svg',
-    description: <>100% Free Online Resources, No Sign-Up Required.</>,
+    description: <>100% Free Online Resources. No Sign-Up Required.</>,
   },
 ]
 
