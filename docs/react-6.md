@@ -93,3 +93,9 @@ Perfect starting point for any React beginner. Learn key React features through 
 ### 1.[Reacti Flux](https://discord.com/invite/reactiflux)
 
 Reacti Flux is the largest community of React developers (110,000+)!
+
+# Books
+
+### 1. [The Road to Learn React: Your journey to master plain yet pragmatic React.js by Robin Wieruch](https://www.amazon.in/Road-Learn-React-Pragmatic-React-Js/dp/172004399X)
+
+This book covers all the fundamentals of React JS with Hooks as well as advanced features implementations like a client and server-side searching. Here, you will find that before moving to the new chapter, you must have a crystal-clear knowledge of the previous chapter, and at the same time, you will solve problems at the end of each chapter. Therefore, it is a good book for beginners that teaches you React JS from scratch. It also helps you to create React application step by step. At the end of the book, you will build a strong knowledge of how to build and deploy a fully functioning React application. 
