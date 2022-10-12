@@ -231,6 +231,10 @@ A simple, free 20 video course that will help you master CSS Flexbox!
 
 100+ buttons you can use in your project.
 
+## 61. [Free CSS](https://www.free-css.com/)
+
+Free CSS has 3400+ free website templates coded using HTML & CSS in its gallery. The HTML website templates that are showcased on Free CSS.com are the best that can be found in and around the net.
+
 # Lessons / Courses
 
 ## Generic
