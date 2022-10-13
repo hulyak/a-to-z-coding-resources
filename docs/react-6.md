@@ -36,6 +36,11 @@ On React Resources you can discover new resources for most topics related to Rea
 ### 9.[React JS Example](https://reactjsexample.com/)
 
 Check out example React JS sites with their Github repo.
+
+### 10.[Bundlephobia]([https://react.rocks/](https://bundlephobia.com/))
+
+Compare npm packages for react and see the best alternatives for your packages.
+
 ## Repos
 
 ### 1.[Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme)
