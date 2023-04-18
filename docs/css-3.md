@@ -235,6 +235,10 @@ A simple, free 20 video course that will help you master CSS Flexbox!
 
 Free CSS has 3400+ free website templates coded using HTML & CSS in its gallery. The HTML website templates that are showcased on Free CSS.com are the best that can be found in and around the net.
 
+## 62. [CSS Tutorial - Scaler Topics](https://www.scaler.com/topics/css/)
+
+Basic to advanced CSS tutorial for programmers with step-by-step guide along with applications and example programs.
+
 # Lessons / Courses
 
 ## Generic
