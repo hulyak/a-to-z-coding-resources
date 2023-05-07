@@ -252,3 +252,7 @@ Help us provide opportunity for people of all backgrounds by helping them develo
 ### 80. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 PageSpeed Insights is an online service provided by Google to examine the loading time of a website and, if necessary, to optimize it.
+
+### 90. [kandi](https://kandi.openweaver.com/)
+
+kandi is an online platform that enables developers find open source resources thereby help them develop applications faster.
