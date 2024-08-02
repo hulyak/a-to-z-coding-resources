@@ -42,3 +42,7 @@ Learn to Code HTML & CSS has one goal — to teach people how to build beautiful
 ### 10. [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org)
 
 freeCodeCamp html course
+
+### 11. [HTML Tutorial - Basic to Advanced HTML Tutorial for Programmers](https://www.scaler.com/topics/html/)
+
+Learn HTML with step-by-step guide along with applications and example programs by Scaler Topics.
