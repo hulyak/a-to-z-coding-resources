@@ -50,6 +50,10 @@ Upload your resume for a free expert review.
 
 Use these samples, templates, and writing tips to create effective cover letters that will get you hired.
 
+### 13. [Resmume](https://resmume.com/)
+
+Resmume is a free CV maker that helps you create a CV in minutes with ease. It also provides features that automatically make your CV stand out from the crowd.
+
 ## Career Advice
 
 ### 1. [Break Into Tech](https://www.breakinto.tech/)
