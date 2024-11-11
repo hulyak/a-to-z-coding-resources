@@ -83,4 +83,13 @@ module.exports = {
       },
     ],
   ],
+  webpack: {
+    configure: (webpackConfig) => {
+      webpackConfig.module.rules.push({
+        test: /eta\.module\.mjs$/,
+        type: 'javascript/auto',
+      })
+      return webpackConfig
+    },
+  },
 }
