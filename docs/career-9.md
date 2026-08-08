@@ -54,6 +54,10 @@ Use these samples, templates, and writing tips to create effective cover letters
 
 Resmume is a free CV maker that helps you create a CV in minutes with ease. It also provides features that automatically make your CV stand out from the crowd.
 
+### 14. [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check)
+
+A free, private, no-sign-up check for common ATS readability issues. The analysis runs in the browser and is a foundation check, not a simulation of every employer's ATS.
+
 ## Career Advice
 
 ### 1. [Break Into Tech](https://www.breakinto.tech/)
