@@ -54,6 +54,10 @@ Use these samples, templates, and writing tips to create effective cover letters
 
 Resmume is a free CV maker that helps you create a CV in minutes with ease. It also provides features that automatically make your CV stand out from the crowd.
 
+### 14. [CVExpert CV–Job Keyword Match Checker](https://cvexpert.com/tools/cv-job-match)
+
+Compare a CV with a specific job description and review the matched and missing terms behind the result. The checker is free, requires no sign-up, and processes pasted text locally in the browser; it is a language-alignment aid, not an ATS verdict.
+
 ## Career Advice
 
 ### 1. [Break Into Tech](https://www.breakinto.tech/)
