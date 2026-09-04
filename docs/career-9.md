@@ -33,6 +33,9 @@ Below you'll see resumes for 500+ professions grouped by industry. Scroll down a
 
 Over 90% of large companies use Applicant Tracking Systems. These systems analyze resumes and CVs to surface candidates that best match the position, but qualified applicants slip through the cracks. We have researched the top systems and built our resume checker based on their common patterns to help you get noticed.
 
+### 7b. [ResumeAI](https://withresumeai.com/)
+
+Free ATS checker (3 checks/day with no account, 10/day with a free account), AI resume builder, and the open State of ATS 2026 dataset (738 employers, 704 portal-verified; Workday share 37.9%). Also hosts a live job-seeker leaderboard for paid placement/visibility (not pay-for-score).
 
 ### 8. [Visual CV](https://www.visualcv.com/resume-samples/)
 
