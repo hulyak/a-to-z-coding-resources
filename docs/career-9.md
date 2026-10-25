@@ -54,6 +54,10 @@ Use these samples, templates, and writing tips to create effective cover letters
 
 Resmume is a free CV maker that helps you create a CV in minutes with ease. It also provides features that automatically make your CV stand out from the crowd.
 
+### 14. [JobEmerge](https://www.jobemerge.work/)
+
+JobEmerge provides job-fit analysis, resume translation into 19 languages, and a Markdown resume editor with PDF, Word, PNG, and Markdown export.
+
 ## Career Advice
 
 ### 1. [Break Into Tech](https://www.breakinto.tech/)
